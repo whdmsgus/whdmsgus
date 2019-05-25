@@ -1,0 +1,5 @@
+size(1000,1000);
+ellipseMode(CENTER);
+ellipse(500,500,100,100);
+rectMode(CENTER);
+rect(500,500,50,50);
